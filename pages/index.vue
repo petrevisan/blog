@@ -1,3 +1,4 @@
 <template>
-  <HelloWorld></HelloWorld>
+  <Profile/>
+  <EmailForm/>
 </template>
